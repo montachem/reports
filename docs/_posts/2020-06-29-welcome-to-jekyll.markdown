@@ -8,10 +8,9 @@ categories: jekyll update
 ### Inventory aging report_v2 ###
 
 <a href="https://github.com/montachem/reports/blob/master/sql/MIBV/test_MIBV.sql">/sql/MIBV/test_MIBV.sql</a>
+[sql/MIBV/test_MIBV.sql](./sql/MIBV/test_MIBV.sql)
 
-# Contents from the '/media/user/README_1.md' markdown file:
 
-Read more [here](./README_2.md) # It works!
 
 
 
