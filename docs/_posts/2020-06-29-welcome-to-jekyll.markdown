@@ -3,14 +3,17 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-06-29 15:15:32 -0400
 categories: jekyll update
-url: /sql/MIBV/test_MIBV.sql
 ---
 ## Inventory ##
 ### Inventory aging report_v2 ###
 
-html'
 <a href="https://github.com/montachem/reports/blob/master/sql/MIBV/test_MIBV.sql">/sql/MIBV/test_MIBV.sql</a>
-'
+
+# Contents from the '/media/user/README_1.md' markdown file:
+
+Read more [here](./README_2.md) # It works!
+
+
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
