@@ -6,6 +6,7 @@ categories: jekyll update
 ---
 ## Inventory ##
 ### Inventory aging report_v2 ###
+date: 2020-06-29
 [/sql/MIBV/test_MIBV.sql](/sql/MIBV/test_MIBV.sql)
 
 
