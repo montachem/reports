@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 ## Inventory ##
 ### Inventory aging report_v2 ###
-[/sql/MIBV/test_MIBV.sql](https://github.com/montachem/reports/blob/master/sql/MIBV/test_MIBV.sql)
+['Code'](https://github.com/montachem/reports/blob/master/sql/MIBV/test_MIBV.sql)
 
 
 
