@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 ## Inventory ##
 ### Inventory aging report_v2 ###
-[/sql/MIBV/test_MIBV.sql](/sql/MIBV/test_MIBV.sql)
+[/sql/MIBV/test_MIBV.sql](./sql/MIBV/test_MIBV.sql)
 
 
 
