@@ -4,7 +4,8 @@ title:  "Welcome to Jekyll!"
 date:   2020-06-29 15:15:32 -0400
 categories: jekyll update
 ---
-##Heading 2##
+# Heading 1 #
+## Heading 2 ##
 ### Hello amigos ###
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
