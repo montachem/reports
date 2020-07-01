@@ -2,11 +2,12 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2020-06-29 15:15:32 -0400
-categories: jekyll update
+categories: inventory credit
 ---
 ## Inventory ##
 ### Inventory aging report_v2 ###
-[Code](https://github.com/montachem/reports/blob/master/sql/MIBV/test_MIBV.sql) `inventory` `credit`
+`inventory` `credit`  
+### [Inventory aging report_v2](https://github.com/montachem/reports/blob/master/sql/MIBV/test_MIBV.sql) ###
 
 
 
