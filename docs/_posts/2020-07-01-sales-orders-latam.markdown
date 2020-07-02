@@ -1,20 +1,14 @@
 ---
-layout: single
-title:  "Welcome to Jekyll!"
-date:   2020-06-29 15:15:32 -0400
-categories: inventory credit
+layout: splash
+title:  "Sales orders LATAM"
+date:   2020-07-01 15:15:32 -0400
+categories: sales credit
 ---
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:  
-
-### [Inventory aging report_v2](https://github.com/montachem/reports/blob/master/sql/MIBV/test_MIBV.sql) ###
-
-
-
-
+Sales report for all LATAM sales oreders.   
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+### [Inventory aging report_v2](https://github.com/montachem/reports/blob/master/sql/MIBV/test_MIBV.sql) ###
 
 {% highlight ruby %}
 select top 10 * from ORDR
@@ -24,7 +18,9 @@ Jekyll requires blog post files to be named according to the following format:
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
+Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
+Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
 def print_hi(name)
