@@ -1,0 +1,73 @@
+I"ó
+<div class="feature__wrapper">
+
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Easy to use</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Find any SAP report definition with the powerful search box tool.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">All in one place</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Everything is documented in the same place. If need a report, here is where to find it.</p>
+
+            </div>
+          
+
+          
+        </div>
+      </div>
+    </div>
+  
+    <div class="feature__item">
+      <div class="archive__item">
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Up to date</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Our IT department keeps this site up to date. New or modifications to existing reports are included here as they are produced.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/docs/license/" class="btn btn--primary">Learn more</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+:ET
