@@ -16,4 +16,4 @@ main:
 sidebar-sample:
   - title: "MII"
     children:
-      - title: "Sales Reports"
+      - title: "Query Manager"

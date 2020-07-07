@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Reports Documentation"
+title: "Reports"
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -11,7 +11,7 @@ header:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt:
-  Code description. Designed to be easy to use. Written to be easy to maintain.
+  Code documentation. Designed to be easy.
 feature_row:
   - title: "Easy to use"
     excerpt: "Find any SAP report definition with the powerful search box tool."
