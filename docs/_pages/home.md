@@ -6,12 +6,12 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   color: "#5e616c"
-  overlay_image: "/assets/images/montachem_2.jpg" # /assets/images/mm-home-page-feature.jpg
+  overlay_image: "/assets/images/montachem_3.jpg" # /assets/images/mm-home-page-feature.jpg
   #actions:
   #  - label: "<i class='fas fa-download'></i> Install now"
   #    url: "/docs/quick-start-guide/"
 excerpt:
-  Internal code description. Designed to be easy to maintain. Written to be easy to use.
+  Code description. Designed to be easy to use. Written to be easy to maintain.
 feature_row:
   - title: "Easy to use"
     excerpt: "Find any SAP report definition with the powerful search box tool."
